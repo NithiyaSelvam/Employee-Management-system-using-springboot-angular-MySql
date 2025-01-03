@@ -17,6 +17,7 @@ The Employee Management System is a comprehensive web application designed to st
 # Home Page
 ![Web capture_11-1-2024_143259_localhost](https://github.com/adityasurya4103/employee-management-system-angular-spring-boot-mysql/assets/97177344/f76ac939-84aa-480a-adaa-5f5a8b70f143)
 
+
 # View all Employees Page
 ![Web capture_11-1-2024_143359_localhost](https://github.com/adityasurya4103/employee-management-system-angular-spring-boot-mysql/assets/97177344/d4538054-d230-4faa-9313-d0af96e64bc9)
 

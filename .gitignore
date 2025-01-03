@@ -1,0 +1,15 @@
+# Ignore Maven build files
+/target/
+
+# Ignore Spring Boot and IntelliJ files
+.idea/
+*.iml
+
+# Ignore Node.js modules (for Angular)
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore MySQL database files
+*.db
